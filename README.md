@@ -1,5 +1,11 @@
 # Duygu Durumu Analizi Projesi
 
+## 🎓 Proje Hakkında (About the Project)
+
+Bu uygulama, İstanbul Beykent Üniversitesi **"Görüntü İşleme"** dersi bitirme projesi kapsamında geliştirilmiştir. Akademik bir çalışmanın ürünü olan bu projenin kaynak kodları, açık kaynak topluluğuna katkı sağlamak amacıyla **MIT Lisansı** ile özgür bırakılmıştır. 
+
+Kod mimarisini inceleyebilir, yapay zeka modellerinden ilham alabilir veya projeyi kendi sistemlerinize entegre ederek dilediğiniz gibi geliştirebilirsiniz! 🚀
+
 Bu proje, gerçek zamanlı yüz duygu analizi yapan modern bir Python uygulamasıdır.
 
 ## Gereksinimler
